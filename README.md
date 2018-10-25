@@ -1,2 +1,2 @@
 # MyesteganoApp
-a simple stego application
+a simple stego application written in delphi.
